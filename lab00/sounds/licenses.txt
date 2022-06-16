@@ -1,0 +1,20 @@
+doorcreak: https://freesound.org/people/Zabuhailo/sounds/148114/
+chord: https://freesound.org/people/InspectorJ/sounds/439554/
+meow: https://freesound.org/people/skymary/sounds/412017/
+car: https://freesound.org/people/Nox_Sound/sounds/522222/
+crash: https://freesound.org/people/Karma-Ron/sounds/151811/
+
+ice_and_chilli.wav: http://ccmixter.org/files/_ghost/22043
+
+lookout_mountain.wav was constructed from a raw multitrack excerpt from The
+Long Wait's 'Lookout Mountain', retrieved from:
+    https://cambridge-mt.com/ms/mtk/#LongWait
+
+The licensing information provided about the original multitrack excerpt is:
+    This file is provided for educational purposes only, and the material
+    contained in it should not be used for any commercial purpose without the
+    express permission of the copyright holders. Please refer to
+    https://creativecommons.org/licenses/by-sa/4.0/ and www.cambridge-mt.com
+    for further licensing details.
+
+
